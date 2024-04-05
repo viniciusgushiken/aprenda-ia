@@ -25,5 +25,8 @@ Repositório para registrar e organizar o conhecimento sobre Inteligência Artif
     - Phi
     - Vicuna
 - Frameworks
-- 
+  - Langchain
+  - LlamaIndex
+- História
+- Futurologia
 
