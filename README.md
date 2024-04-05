@@ -17,6 +17,13 @@ Repositório para registrar e organizar o conhecimento sobre Inteligência Artif
   - Transformer
 - Modelos
   - Open Source
+    - Llama
+    - Mistral
+    - Mixtral
+    - Gemma
+    - Command-R
+    - Phi
+    - Vicuna
 - Frameworks
 - 
 
