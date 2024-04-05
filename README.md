@@ -8,11 +8,13 @@ Repositório para registrar e organizar o conhecimento sobre Inteligência Artif
 - Conceitos
   - LLM
   - Prompt
-  - Token
+  - Tokenização
   - Embedding
   - RAG
   - Agentes
   - Memória
+  - NN
+  - Transformer
 - Modelos
   - Open Source
 - Frameworks
